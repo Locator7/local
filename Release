@@ -1,5 +1,5 @@
 {	
-"version": "3.4",
-"showAds": true,
-"showOpenAd": true
+"version": "3.6",
+"showAds": false,
+"showOpenAd": false
 }
