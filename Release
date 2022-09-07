@@ -1,6 +1,6 @@
 {	
-"version": "3.9",
-"showAds": true,
+"version": "4.0",
+"showAds": false,
 "showOpenAd": false,
 "showBanner": false
 }
